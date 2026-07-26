@@ -1,26 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <img src="light.svg" alt="Aakash R — automation and data engineering" width="100%">
+</picture>
+
 # Aakash R
-```
-:::::::::::::::::::::-----------------------------
-:::::::::::::::::-=+#%%%#**-----------------------
-::::::::::::::-+#%@@@@@@@@@%%%%%%=----------------
-:::::::::::::=#@%@@%%@@@@%@@@@@@@%#=--------------
-::::::::::::-+%%@@@@@%%%@%@%%@@@@@%*--------------
--:::::::::-::+%@@#*+++=+***##%@@@@@+--------------
----:-:--:--:--=%%#*#+++++#****#@%%#---------------
------:----------=+=++++++===++#%++----------------
------------------+==+++++=+++*#%#=----------------
-------------------++++=++++*+*#*------------------
--------------------=++===+*##***=-----------------
----------------------+++*#++==--%@*=--------------
-----------------=*%%=:=+==-..:=%@@@@@%*=----------
-----------=*%%%%%%%#-=%##=:.:+%%%@@@@@@@@%%+==----
---------*%%%%%%@@@%-::%%*:::#%%%%%@@%%%@@@@@@%@%=-
--------=%%%%%%%%@%+::+%%-:-%%%%%@@%%%%%%%%%%@@@@%=
--------#%%%%%%%%%%-:#%##:-%%%%%%%%%%%%%%%%%@@@@@@+
-------+%%%%%%%%%%%:=%##+-%%%%%%%%%%%%%%%%%@@@@@@@%
------=#%@%%%%%%%%%-#%%#+%%%%%%%%%%%%%%@@%%@@@@@@@@
-==---+%%@@%%%%%%%%+%%%%%%%%%%%%%%%%@@@@@%@@@@@@@@@
-```
+
 **Automation & data engineering for consultancies and service businesses.**
 
 I build the operational layer that companies run on — client intake, payments, scheduling, document handling, follow-up — and the data infrastructure underneath it. Most automation looks fine in a demo and falls apart by week three. I build for the edge cases first: the retry that never fires, the record that silently duplicates, the booking made against hours already spent.
