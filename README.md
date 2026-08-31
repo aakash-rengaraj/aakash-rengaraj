@@ -80,8 +80,8 @@ Also: GoHighLevel, REST & webhook integrations, SPF/DKIM/DMARC email infrastruct
 ## Recognition
 
 - **PitchOff 2026** — Alliance University, Bangalore
+- **Innohack 2026** - IIC, VIT
 - **Code2Create** — ACM, VIT
-- **e-Yantra 2024** — IIT Bombay
 
 ---
 
